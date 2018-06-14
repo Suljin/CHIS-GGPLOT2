@@ -1,2 +1,2 @@
 # CHIS-GGPLOT2
-CHIS exercise in ggplot2
+CHIS exercise in ggplot2.
